@@ -2,7 +2,7 @@
 This demo code shows how to print a string to a LCD using atmega32 microcontroller. _lcd.h_ contains the low level code for interacting with atmega32 microcontroller.
 
 ## To Run 
-
+First, install winavr on your computer. Then,
 On command line:
 
  make all = Make software.
