@@ -1,5 +1,5 @@
 # interfacing-lcd-with-atmega32
-This demo code shows how to print a string to a LCD using atmega32 microcontroller. lcd.h contains the low level code for interacting with atmega32 microcontroller.
+This demo code shows how to print a string to a LCD using atmega32 microcontroller. _lcd.h_ contains the low level code for interacting with atmega32 microcontroller.
 
 ## To Run 
 
